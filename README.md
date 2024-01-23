@@ -9,9 +9,10 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vieiraasara&show_icons=true&count_private=true&hide_border=true&title_color=c196c1&icon_color=c196c1&text_color=c9d1d9&bg_color=0d1117" alt="Sara Vieira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiraasara&layout=compact&hide_border=true&title_color=c196c1&text_color=c196c1&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vieiraasara&show_icons=true&count_private=true&hide_border=true&title_color=c196c1&icon_color=c196c1&text_color=c9d1d9&bg_color=0d1117&token=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" alt="Sara Vieira github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiraasara&layout=compact&hide_border=true&title_color=c196c1&text_color=c196c1&bg_color=0d1117&token=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" />
 </div>
+
 
 
 <div align="center"> 
