@@ -29,6 +29,13 @@
 ### Studying in this moment:
 [![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&color=0D1117)](https://nodejs.org/)
 [![Angular](https://img.shields.io/badge/-Angular-DD0017?style=for-the-badge&logo=angular&labelColor=0D1117&color=0D1117)](https://angular.io/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=0D1117&color=0D1117)](https://www.typescriptlang.org/)
+
+
+
+
+
+
 
 
 
