@@ -33,6 +33,7 @@
 
 
 
+
 ### Studying in this moment:
 [![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&color=0D1117)](https://nodejs.org/)
 [![Angular](https://img.shields.io/badge/-Angular-DD0017?style=for-the-badge&logo=angular&labelColor=0D1117&color=0D1117)](https://angular.io/)
